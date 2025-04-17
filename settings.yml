@@ -1,0 +1,3 @@
+registry: 'danielfalves'
+repository: 'python-image'
+dependecies-path: 'src/requirements.txt'
